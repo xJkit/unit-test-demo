@@ -44,3 +44,5 @@ Therer are assignment details below
   - Invoke weather API from OpenWeatherMap (need free api key)
   - Following information needs to be output: `temperature`, `min/max temperature`, `humidity`, `cloudiness`, `data forecasted time`
   - Write test program of mini-project against what you think it can be tested
+
+Please go the the repo: [Open Weather App](https://github.com/xJkit/open-weather-app) for more detail.
